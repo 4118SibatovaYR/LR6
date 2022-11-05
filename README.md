@@ -36,7 +36,7 @@
 ![This is an image](/images/17.png)
 Файл new.txt выглядит так.
 ![This is an image](/images/19.png)
-Сделаем откат коммита.
+Сделаем откат коммита. Последнее изменение исчезло.
 ![This is an image](/images/20.png)
 Создадим ветку report для отчета.
 ![This is an image](/images/21.png)
