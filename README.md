@@ -87,3 +87,10 @@ git branch report
 git checkout report  
 ```
 ![This is an image](/images/21.png)  
+Выведем историю операций в форматированном виде.  
+```
+git log --pretty=format:"%h | %cd | %an: %s"     
+```
+![This is an image](/images/23.png)  
+### Вывод  
+В данной работе были изучены базовые возможности системы управления версиями, получен опыт работы с Git Api, локальным и удаленным репозиторием.
